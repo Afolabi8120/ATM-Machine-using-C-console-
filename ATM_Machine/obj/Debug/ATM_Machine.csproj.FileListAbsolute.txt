@@ -1,0 +1,6 @@
+c:\users\snazzy\documents\visual studio 2012\Projects\ATM_Machine\ATM_Machine\bin\Debug\ATM_Machine.exe.config
+c:\users\snazzy\documents\visual studio 2012\Projects\ATM_Machine\ATM_Machine\bin\Debug\ATM_Machine.exe
+c:\users\snazzy\documents\visual studio 2012\Projects\ATM_Machine\ATM_Machine\bin\Debug\ATM_Machine.pdb
+c:\users\snazzy\documents\visual studio 2012\Projects\ATM_Machine\ATM_Machine\obj\Debug\ATM_Machine.csprojResolveAssemblyReference.cache
+c:\users\snazzy\documents\visual studio 2012\Projects\ATM_Machine\ATM_Machine\obj\Debug\ATM_Machine.exe
+c:\users\snazzy\documents\visual studio 2012\Projects\ATM_Machine\ATM_Machine\obj\Debug\ATM_Machine.pdb
