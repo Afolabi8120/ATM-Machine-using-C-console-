@@ -1,4 +1,4 @@
-# ATM-Machine-using-C-console-
+# ATM using C Sharrap
 
 This is a Bank like ATM like 🏧 machine
 You need to create an account first before you can have access to the system
